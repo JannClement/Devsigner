@@ -37,6 +37,10 @@
     padding-bottom: 20px;
     font-weight: bold;
   }
+  .social ul li{
+    margin-top: 12px;
+    display: inline-block;
+  }
    #contround {
     display: none;
   }
