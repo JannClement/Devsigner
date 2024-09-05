@@ -180,7 +180,7 @@ footer{
 }
 .social ul li{
   display: inline;
-  padding-top: 50px;
+  padding-right: 12px;
 }
 .copyrights{
   font-family: var(--ff2);
