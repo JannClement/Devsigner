@@ -1,0 +1,43 @@
+@media only screen and (max-width: 700px) {
+  nav{
+    box-shadow: 0 0 10px rgba(108, 153, 237, 0.518);
+    position: fixed;
+    right: 0;
+    top: 0;
+    width: 100%;
+    z-index: 9999
+  }
+  .logo{
+    height: 30px;
+    width: 30px;
+  }
+  .container, #placenamedate{
+    padding: 10px 2rem;
+  }
+  .hero-main{
+    text-align: center;
+    height: 60vh;
+  }
+  #Devsigner{
+    padding-top: 10rem;
+    width: 16rem;
+  }
+  .abt-content{
+    flex-direction: column;
+    padding: 10px 0px;
+  }
+  footer{
+    text-align: center;
+  }
+  .links{
+    padding: 10px;
+    display: inline-block;
+  }
+  .social{
+    padding-bottom: 20px;
+    font-weight: bold;
+  }
+   #contround {
+    display: none;
+  }
+}
