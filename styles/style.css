@@ -53,6 +53,7 @@ a{color: var(--whtcolor); text-decoration: none;}
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
+  flex-direction: column;
   text-align: center;
   gap: 20px;
   width: 100%;
