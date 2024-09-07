@@ -142,7 +142,7 @@ class Blob {
     this._color = value;
   }
   get color() {
-    return this._color || '#78a5ff';
+    return this._color || '#FFE873';
   }
   
   set canvas(value) {
