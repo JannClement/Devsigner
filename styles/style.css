@@ -53,6 +53,7 @@ a{color: var(--whtcolor); text-decoration: none;}
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
+  text-align: center;
   gap: 20px;
   width: 100%;
   height: 100vh;
@@ -60,20 +61,6 @@ a{color: var(--whtcolor); text-decoration: none;}
 #Devsigner{
   position: relative;
   z-index: 9999;
-}
-#placenamedate{
-  margin-bottom: 35px;
-  width: 100%;
-  gap: 5px;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-.contplacenamedate  {
-  font-family: var(--ff2);
-  line-height: 1.5;
-  letter-spacing: 1px;
-  text-align: right;
 }
 .abt-content{
   margin-top: 60px;
