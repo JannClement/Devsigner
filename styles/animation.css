@@ -52,7 +52,7 @@ canvas {
   }
 }
 /* arrow */
-#arrow{
+.arrow{
   position: relative;
   animation: bounce 2s infinite;
 }
