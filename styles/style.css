@@ -152,7 +152,7 @@ a{color: var(--whtcolor); text-decoration: none;}
   color: var(--whtcolor);
 }
 footer{
-   padding: 20px 80px;
+  padding: 20px 5rem;
   display: flex;
   flex-direction: column;
   align-items: start;
