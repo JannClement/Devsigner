@@ -46,7 +46,6 @@ a{color: var(--whtcolor); text-decoration: none;}
 /* dito yung title sa gitna */
 .container{
   padding: 10px 5rem;
-  height: 100vh;
 }
 .hero-main{
   display: flex;
